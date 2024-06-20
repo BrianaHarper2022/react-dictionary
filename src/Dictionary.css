@@ -12,17 +12,17 @@
 .Dictionary label {
     font-weight: 600;
     font-size: 24px;
-    margin-bottom: 20px;
     line-height: 29px;
+    margin-bottom: 20px;
 }
 .Dictionary input {
-    height: 64px;
-    color: #666666;
-    font-size: 18px;
-    line-height: 21px;
-    padding: 22px;
     border: 1px solid #dddddd;
     border-radius: 6px;
+    color: #666666;
+    font-size: 18px;
+    height: 64px;
+    line-height: 21px;
+    padding: 22px;
     width: 100%;
 }
 .Dictionary .hint {

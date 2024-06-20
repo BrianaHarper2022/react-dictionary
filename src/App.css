@@ -3,10 +3,14 @@
   max-width: 960px;
   margin: 0 auto;
 }
+.App header {
+  font-size: 46px;
+  font-weight: 600;
+}
 .App footer {
-  text-align: center;
-  margin-top: 20px;
   font-size: 13px;
+  margin-top: 20px;
+  text-align: center;
 }
 .App a {
   color: #CC1718;

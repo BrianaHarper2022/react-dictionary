@@ -5,16 +5,14 @@
     line-height: 29px;
     margin-bottom: 20px;
   }
-  
   .Meaning p {
+    color: #000000;
     font-size: 14px;
     line-height: 17px;
-    color: #000000;
     margin: 20px 0 10px;
   }
-  
   .Meaning em {
+    color: #666666;
     font-size: 13px;
     line-height: 15px;
-    color: #666666;
   }
